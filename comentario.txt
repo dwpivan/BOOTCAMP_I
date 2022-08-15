@@ -1,0 +1,5 @@
+-Diagrama
+-En el diagrama se representa las tablas user, el cual tiene sus datos en la tabla person,
+ al realizar la solicitud de retiro se registrara en la tabla procedure con el user_id para saber que user lo
+realizo y si ya realizo un retiro , al solicitar el retiro seleccione su AFP que estan en la tabla company, y se tiene la tabla
+configuration donde estarian las reglas que aplican para el monto max y min a retirar 

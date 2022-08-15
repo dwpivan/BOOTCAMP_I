@@ -1,0 +1,27 @@
+2022-08-15 16:25:24,076 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Starting EventApplication using Java 11.0.11 on LAPTOP-GJ0CMCA3 with PID 22464 (C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event\target\classes started by ivanm in C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event)
+2022-08-15 16:25:24,076 DEBUG com.bootcampfinal.java.event.EventApplication [restartedMain] Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-08-15 16:25:24,077 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] The following 1 profile is active: "dev"
+2022-08-15 16:25:24,964 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Started EventApplication in 0.919 seconds (JVM running for 105.134)
+2022-08-15 16:26:46,632 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Starting EventApplication using Java 11.0.11 on LAPTOP-GJ0CMCA3 with PID 18040 (C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event\target\classes started by ivanm in C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event)
+2022-08-15 16:26:46,634 DEBUG com.bootcampfinal.java.event.EventApplication [restartedMain] Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-08-15 16:26:46,635 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] The following 1 profile is active: "dev"
+2022-08-15 16:26:49,717 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Started EventApplication in 3.444 seconds (JVM running for 4.609)
+2022-08-15 16:27:37,852 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Starting EventApplication using Java 11.0.11 on LAPTOP-GJ0CMCA3 with PID 23868 (C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event\target\classes started by ivanm in C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event)
+2022-08-15 16:27:37,854 DEBUG com.bootcampfinal.java.event.EventApplication [restartedMain] Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-08-15 16:27:37,855 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] The following 1 profile is active: "dev"
+2022-08-15 16:27:40,770 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Started EventApplication in 3.29 seconds (JVM running for 4.409)
+2022-08-15 16:29:45,411 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Starting EventApplication using Java 11.0.11 on LAPTOP-GJ0CMCA3 with PID 28688 (C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event\target\classes started by ivanm in C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event)
+2022-08-15 16:29:45,413 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] The following 1 profile is active: "prod"
+2022-08-15 16:32:06,388 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Starting EventApplication using Java 11.0.11 on LAPTOP-GJ0CMCA3 with PID 30056 (C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event\target\classes started by ivanm in C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event)
+2022-08-15 16:32:06,390 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] The following 1 profile is active: "prod"
+2022-08-15 16:39:31,690 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Starting EventApplication using Java 11.0.11 on LAPTOP-GJ0CMCA3 with PID 27720 (C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event\target\classes started by ivanm in C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event)
+2022-08-15 16:39:31,694 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] The following 1 profile is active: "prod"
+2022-08-15 16:39:36,479 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Started EventApplication in 5.287 seconds (JVM running for 7.151)
+2022-08-15 17:10:54,215 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Starting EventApplication using Java 11.0.11 on LAPTOP-GJ0CMCA3 with PID 26740 (C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event\target\classes started by ivanm in C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event)
+2022-08-15 17:10:54,218 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] The following 1 profile is active: "prod"
+2022-08-15 17:33:57,049 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Starting EventApplication using Java 11.0.11 on LAPTOP-GJ0CMCA3 with PID 27372 (C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event\target\classes started by ivanm in C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event)
+2022-08-15 17:33:57,051 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] The following 1 profile is active: "prod"
+2022-08-15 17:33:59,897 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Started EventApplication in 3.187 seconds (JVM running for 4.304)
+2022-08-15 17:57:37,127 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Starting EventApplication using Java 11.0.11 on LAPTOP-GJ0CMCA3 with PID 27372 (C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event\target\classes started by ivanm in C:\Users\ivanm.LAPTOP-GJ0CMCA3\Documents\NTTDATA_\Final\event)
+2022-08-15 17:57:37,128 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] The following 1 profile is active: "prod"
+2022-08-15 17:57:37,969 INFO com.bootcampfinal.java.event.EventApplication [restartedMain] Started EventApplication in 0.87 seconds (JVM running for 1422.376)
